@@ -1,4 +1,4 @@
-<img src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3BrdFB1SG1XMGpORHhuQzM1cUpFZUZ6b2NPZ3xBQ3Jtc0tsWDZKMVFVc3RyTXVlUFhmanN5TzJNQ2NDaFhaNU9TOVZVcVRzSXNaa3c5R24weXlUcDE2cm9NZVZGZnVWRVl6U1BHdkNxYTRCRWVRWlFacFBzcDh0MHFpQUUzdmtscGEzYzUxSjVFTEljN2pWRmFmMA&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE" />
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 😁, I'm Lamine Gueye</h1>
 <h3 align="center">A passionate software engineer and backend developer from Senegal</h3>
