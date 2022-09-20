@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a project management discord bot](https://github.com/lamine2000/projectManagementBot)
 
-- 🌱 I’m currently learning **JHipster, Webpack, Kafka, Jenkins, JS algorithms and datastractures 🤓**
+- 🌱 I’m currently learning **JHipster, Webpack, Kafka, Jenkins, JS algorithms and datastructures 🤓**
 
 - 👨‍💻 All of my projects will be available at (website currently being built) [https://lamine-dev.io](https://lamine-dev.io)
 
