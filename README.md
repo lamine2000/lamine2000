@@ -1,8 +1,7 @@
-[![MasterHead](github-header-image.png(1))](https://rishavchanda.io)
+[![MasterHead](github-header-image.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 😁, I'm Lamine Gueye</h1>
 <h3 align="center">A passionate software engineer and backend developer from Senegal</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamine2000&label=Profile%20views&color=0e75b6&style=flat" alt="lamine2000" /> </p>
 
@@ -17,8 +16,6 @@
 - 📫 How to reach me **gueyelamine@esp.sn**
 
 - ⚡ Fun fact **I think I am funny**
-
-<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
