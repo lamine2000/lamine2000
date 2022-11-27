@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gueyelamine@esp.sn**
 
-- ⚡ Fun fact **my code keep being funnier than me 🥲**
+- ⚡ Fun fact **my code keeps being funnier than me 🥲**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
