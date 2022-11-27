@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects will be available at (website currently being built) [https://lamine-dev.io](https://lamine-dev.io)
 
-- 💬 Ask me about **Java, JavaFX, MEARN,and things that I falsely think that I'm an expert in 🥲**
+- 💬 Always want to talk about **Java, JavaFX, Not PHP !, MEARN stack technologies, Devops, Java Discord API, LINUX, Admin-System, Languages and Automata Theory...**
 
 - 📫 How to reach me **gueyelamine@esp.sn**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **my code keep being funnier than me 🥲**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
