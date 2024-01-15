@@ -13,7 +13,7 @@
 
 - 💬 Always want to talk about **Java, JavaFX, Not PHP !, MEARN stack technologies, Devops, Java Discord API, LINUX, Admin-System, Languages and Automata Theory...**
 
-- 📫 How to reach me **gueyelamine@esp.sn**
+- 📫 How to reach me **laminegueye.dev@gmail.com**
 
 - ⚡ Fun fact **my code keeps being funnier than me 🥲**
 
