@@ -1,7 +1,7 @@
 [![MasterHead](github-header-image.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 😁, I'm Lamine Gueye</h1>
-<h3 align="center">A passionate software engineer and backend developer from Senegal</h3>
+<h3 align="center">A passionate software engineer and backend & Devops developer from Senegal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamine2000&label=Profile%20views&color=0e75b6&style=flat" alt="lamine2000" /> </p>
 
